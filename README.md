@@ -14,3 +14,4 @@ Do you want to contribute with this repository? Follow the steps below:
 
 ## Contributors
 | [<img src="https://avatars1.githubusercontent.com/u/14926836?v=3&s=115" width="115"><br><sub>@DavidNery</sub>](https://github.com/DavidNery) |
+| :---: |
